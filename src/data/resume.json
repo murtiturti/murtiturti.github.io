@@ -51,44 +51,53 @@
   "projects": [
     {
       "name": "Barista Life 3D",
+      "slug": "barista-life-3d",
       "description": "Zerosum Games",
       "url": "",
-      "media": "videos/BaristaLifeReel.webm"
+      "media": "/videos/BaristaLifeReel.webm"
     },
     {
       "name": "Interval Factory",
+      "slug": "interval-factory",
       "description": "Ear training solo project",
       "url": "https://muratdiken.itch.io/intervals",
-      "media": "videos/IntervalFactoryReel.webm"
+      "media": "/videos/IntervalFactoryReel.webm"
     },
     {
       "name": "Her Name is Jacqueline",
+      "slug": "her-name-is-jacqueline",
       "description": "Magical forest immersive environment project",
       "url": "https://muratdiken.itch.io/her-name-is-jacqueline",
-      "media": "videos/JacquelineReel.webm"
+      "media": "/videos/JacquelineReel.webm",
+      "posterTime": 17
     },
     {
       "name": "Bike Game",
+      "slug": "bike-game",
       "description": "MVP for Serenity Forge in partnership with RealXP Lab",
-      "media": "videos/BikeGameReel.webm"
+      "media": "/videos/BikeGameReel.webm",
+      "posterTime": 26
     },
     {
       "name": "Fortune Guesser",
+      "slug": "fortune-guesser",
       "description": "Game Crafters' Collective Summer Jam 2025",
       "url": "https://zachpetty.itch.io/fortune-guesser",
-      "media": "videos/FortuneGuesserReel.webm"
+      "media": "/videos/FortuneGuesserReel.webm"
     },
     {
       "name": "Pawneival",
+      "slug": "pawneival",
       "description": "Toronto Game Jam 2026",
       "url": "https://michael-wilson.itch.io/pawneival",
-      "media": "videos/PawneivalReel.webm"
+      "media": "/videos/PawneivalReel.webm"
     },
     {
       "name": "Dungeon Team",
+      "slug": "dungeon-team",
       "description": "Wakefield Studios",
-      "url": "dungeonteam.com",
-      "media": "videos/DungeonTeamReel.webm"
+      "url": "https://dungeonteam.com",
+      "media": "/videos/DungeonTeamReel.webm"
     }
   ]
 }

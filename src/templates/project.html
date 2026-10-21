@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{name}} — Murat Diken</title>
+    <meta name="description" content="{{description}}">
+    <meta property="og:title" content="{{name}} — Murat Diken">
+    <meta property="og:description" content="{{description}}">
+    <link rel="stylesheet" href="/home/style.css">
+</head>
+<body>
+    <header class="topbar">
+        <a href="/">Murat Diken</a>
+        <a href="/#projects">All projects</a>
+    </header>
+
+    <main>
+        <article class="project-detail">
+            <h1>{{name}}</h1>
+            <p class="lede">{{description}}</p>
+            {{facts}}
+            {{media}}
+            {{link}}
+            {{body}}
+        </article>
+
+        <nav class="pager" aria-label="More projects">{{pager}}</nav>
+    </main>
+
+    <footer>
+        <span>© Murat Diken</span>
+        <a href="/3d/">3D portfolio</a>
+    </footer>
+
+    <script type="module" src="/home/project.js"></script>
+</body>
+</html>

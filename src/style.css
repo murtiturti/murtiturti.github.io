@@ -46,6 +46,11 @@ body
     color: #00ffcc;
 }
 
+#social-links .home-link
+{
+    margin-bottom: 8px;
+}
+
 #social-links svg
 {
     width: 22px;
